@@ -4,7 +4,7 @@
  * @wordpress-plugin
  * Plugin Name:       Kntnt Core RSS Block Opens Link in New Tab
  * Plugin URI:        https://github.com/Kntnt/kntnt-core-rss-block-opens-link-new-tab
- * Description:       Adds `target="_blank" rel="noreferrer noopener"` to all lines outputted by the core RSS block.
+ * Description:       Adds `target="_blank" rel="noreferrer noopener"` to all links outputted by the core RSS block.
  * Version:           1.0.0
  * Author:            Thomas Barregren
  * Author URI:        https://www.kntnt.com/
